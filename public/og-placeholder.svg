@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1B4332"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D2818;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2D6A4F;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="600" y="260" font-family="Georgia,serif" font-size="80" font-weight="bold" fill="#D4AF37" text-anchor="middle">Chitral Natural Nuts</text>
+  <text x="600" y="330" font-family="Arial,sans-serif" font-size="32" fill="#FAF9F6" text-anchor="middle" opacity="0.8">Premium Nuts &amp; Dry Fruits from Pakistan</text>
+  <text x="600" y="400" font-family="Arial,sans-serif" font-size="24" fill="#D4AF37" text-anchor="middle" opacity="0.7">🏔️ Sourced from Chitral Mountains · 100% Natural · Free Delivery</text>
+  <text x="600" y="560" font-family="Arial,sans-serif" font-size="20" fill="#FAF9F6" text-anchor="middle" opacity="0.5">chitralnuts.pk</text>
+</svg>
